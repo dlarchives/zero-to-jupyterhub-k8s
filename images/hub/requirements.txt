@@ -1,6 +1,6 @@
 # jupyterhub version is defined in chartpress.yaml
 jupyterhub-dummyauthenticator==0.3.1
-jupyterhub-firstuseauthenticator==0.12
+jupyterhub-firstuseauthenticator==1.0.0
 jupyterhub-tmpauthenticator==0.6
 jupyterhub-ltiauthenticator==0.3
 jupyterhub-ldapauthenticator==1.2.2
